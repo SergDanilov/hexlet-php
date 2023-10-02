@@ -1,0 +1,11 @@
+{
+    "name": "hexlet/serega",
+    "description": "my-project",
+    "authors": [
+        {
+            "name": "Serg",
+            "email": "danilovserg1985s@gmail.com"
+        }
+    ],
+    "require": {}
+}
